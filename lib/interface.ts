@@ -3,4 +3,5 @@ export interface homeBlogData {
     description: string;
     _id: string;
     slug: string;
+    titleImage:any
   }
